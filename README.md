@@ -28,4 +28,9 @@ Aplicação em Python que responde perguntas do usuário.
 - Utilidade das respostas  
 
 ## 6. Pitch
-Um agente simples que ajuda pessoas a entender melhor sua vida financeira.
+
+Este projeto apresenta um agente financeiro simples que auxilia usuários com dúvidas sobre finanças pessoais.
+
+A solução permite interação por meio de perguntas e respostas, ajudando na tomada de decisões básicas como economia, investimentos e controle de dívidas.
+
+O objetivo é demonstrar de forma prática o conceito de um agente inteligente aplicado ao contexto financeiro.
